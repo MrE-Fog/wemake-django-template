@@ -28,7 +28,7 @@ structlog = "^22.1"
 django-debug-toolbar = "^3.6"
 django-querycount = "^0.7"
 django-migration-linter = "^4.1"
-django-extra-checks = "^0.12"
+django-extra-checks = "^0.13"
 django-coverage-plugin = "^2.0"
 nplusone = "^1.0"
 
