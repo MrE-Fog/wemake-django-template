@@ -547,18 +547,17 @@ setuptools = "*"
 
 [[package]]
 name = "django-coverage-plugin"
-version = "2.0.3"
+version = "3.1.0"
 description = "Django template coverage.py plugin"
 optional = false
 python-versions = "*"
 files = [
-    {file = "django_coverage_plugin-2.0.3-py3-none-any.whl", hash = "sha256:fd888f2ff41e3410a004d799b198cf8b19694d692a2d2264e8c944b9321bedc3"},
-    {file = "django_coverage_plugin-2.0.3.tar.gz", hash = "sha256:e73231e3bfddb2ac836fd43cb0e6ec2ab3a97457b1d9ca2468085e506beb7935"},
+    {file = "django_coverage_plugin-3.1.0-py3-none-any.whl", hash = "sha256:eb0ea8ffdb0db11a02994fc99be6500550efb496c350d709f418ff3d8e553a67"},
+    {file = "django_coverage_plugin-3.1.0.tar.gz", hash = "sha256:223d34bf92bebadcb8b7b89932480e41c7bd98b44a8156934488fbe7f4a71f99"},
 ]
 
 [package.dependencies]
 coverage = "*"
-six = ">=1.4.0"
 
 [[package]]
 name = "django-csp"
@@ -2870,4 +2869,4 @@ testing = ["func-timeout", "jaraco.itertools", "pytest (>=6)", "pytest-black (>=
 [metadata]
 lock-version = "2.0"
 python-versions = "~3.9"
-content-hash = "a02a4f3520480554a1ea7e8a39d74a048978753d3999d743855f67a50e82d016"
+content-hash = "90c51286445dced3519fa74142032e332b97452b819ea00880a1b03a962d4c6b"
